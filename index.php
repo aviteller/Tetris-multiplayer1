@@ -34,6 +34,8 @@
 	</div>
 </template>
 
+<embed src="music/tetris.mp3" autostart="true" loop="true" width="2" height="0">
+</embed>
 
 
 	<script src="client/tetris.js"></script>

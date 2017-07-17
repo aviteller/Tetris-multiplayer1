@@ -34,8 +34,8 @@ class TetrisManager
 	sortPlayers(tetri)
     {
         tetri.forEach(tetris => {
-            this.document.body.appendChild(tetris.element);
-        });
+        this.document.body.appendChild(tetris.element);
+      });
     }
 
 
